@@ -19,12 +19,6 @@ This project includes **3 professional dashboards** built in Power BI to help re
 - Frequency of Orders
 - AOV by Country
 
-## Preview
-
-![Executive Overview](Screenshots/Executive-Overview.png)
-![Product Performance](Screenshots/Product-Performance.png)
-![Customer Insights](Screenshots/Customer-Insights.png)
-
 ## How to Open
 
 - Download the `.pbix` files.
